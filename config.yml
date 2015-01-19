@@ -1,0 +1,19 @@
+####################
+#ThirstMechanics####
+####By GamingShadow#
+####################
+
+# Delay is the time between the drop in thrist level. 1 Second = 20 Ticks. 60 Seconds = 1200 ticks.
+Delay: 1200
+
+# Manages how much drinking Water/Liquids increases your thirst level.
+RestoreAmount: 50
+
+# Regions where players don't lose thirst levels.  <REGION NAME,WORLDNAME>
+Regions:
+- Spawn
+
+# Messages sent to players when they reach low thirst levels.
+Messages: 
+- Your feel thirsty.
+- Your tongue feels dry.

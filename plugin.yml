@@ -1,0 +1,6 @@
+name: ThirstMechanics
+version: 1.0
+main: ThirstMechanics.ThirstMechanics
+permissions:
+    ThirstMechanics.override:
+        description: Overrides Thirst Mechanics.
